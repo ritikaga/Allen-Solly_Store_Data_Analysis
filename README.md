@@ -11,8 +11,13 @@ and grow more sales in 2023.
 * At end created a dynamic dashboard of 12 months sales.
 
 ## Dashboard
-### A fully interactive Dynamic Dashboard
-<img width="547" alt="Sales Dashboard" src="https://github.com/ritikaga/Allen-Solly_Store_Data_Analysis/assets/66274316/61082eed-27c9-4ee7-ae2d-23b64171b3ce">
+###  A fully interactive Dynamic Dashboard
+![Sales Dashboard](https://github.com/ritikaga/Allen-Solly_Store_Data_Analysis/assets/66274316/1e088017-5955-454e-b122-d4e0fd775747)
+
+
+
+ 
+
 
 
 
