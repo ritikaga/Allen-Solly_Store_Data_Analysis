@@ -17,7 +17,7 @@ and grow more sales in 2023.
 ###  A fully interactive Dynamic Dashboard
 ![Sales Dashboard](https://github.com/ritikaga/Allen-Solly_Store_Data_Analysis/assets/66274316/1e088017-5955-454e-b122-d4e0fd775747)
 
-## Final Conclusion:
+## Conclusion:
 
 To improve sales of Allen Solly Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka, and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
 
